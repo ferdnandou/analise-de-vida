@@ -21,7 +21,6 @@ Este projeto realiza uma análise abrangente dos dados de seguro de saúde com o
 
 - `src/`: Código fonte para processamento de dados, análise exploratória, testes de hipótese e modelagem.
 - `dataset/`: Conjunto de dados utilizado no projeto.
-- `results/`: Resultados da análise, incluindo visualizações, testes estatísticos e avaliação do modelo.
 
 ## Requisitos
 
